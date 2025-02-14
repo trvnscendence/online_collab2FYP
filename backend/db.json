@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1739439828086,
+      "username": "sir",
+      "password": "sir123"
+    },
+    {
+      "id": 1739439868722,
+      "username": "prof",
+      "password": "yash.123"
+    },
+    {
+      "id": 1739440323413,
+      "username": "alex",
+      "password": "alex123"
+    },
+    {
+      "id": 1739440619005,
+      "username": "srh",
+      "password": "srh123"
+    },
+    {
+      "id": 1739440846082,
+      "username": "yash",
+      "password": "yash.123"
+    },
+    {
+      "id": 1739442057096,
+      "username": "yash1",
+      "password": "yash.123"
+    },
+    {
+      "id": 1739444254197,
+      "username": "masa",
+      "password": "masa123"
+    },
+    {
+      "id": 1739445119129,
+      "username": "matei",
+      "password": "matei123"
+    },
+    {
+      "id": 1739447779216,
+      "username": "christian",
+      "password": "christian"
+    }
+  ],
+  "tasks": []
+}
